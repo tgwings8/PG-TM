@@ -8,8 +8,8 @@ pg.hotkey('winleft','up')
 pg.typewrite('dannydavito\n',0.5)
 time.sleep(3)
 pg.hotkey('ctrl','t')
-pg.typeweite('espn.com\n'0.5)
+pg.typeweite('espn.com\n',0.5)
 pg.hotkey('ctrl','t')
-pg.typewrite('espn.com\n'0.5)
+pg.typewrite('espn.com\n',0.5)
 
 
